@@ -1,0 +1,7 @@
+image: ./ch38map.pgm
+resolution: 0.050000
+origin: [-32.790454, -14.414365, 0.000000]
+negate: 0
+occupied_thresh: 0.65
+free_thresh: 0.196
+
